@@ -1,0 +1,53 @@
+body {
+  color: #07031a;
+  background-color: #f4f6ff;
+  line-height: 1.5rem;
+  font-family: 'Helvetica Neue,Helvetica,Arial', sans-serif;
+  font-size: 1rem;
+}
+
+img {
+  display: block;
+  width: 20%;
+  height: 20%;
+  margin: auto;
+}
+
+
+h4 {
+  text-align: center;
+}
+
+.heading {
+  color: #111d5e;
+  text-align: center;
+  font-family: 'Notable', sans-serif;
+  font-size: 5rem;
+}
+
+.equation {
+  color: #086972;
+  text-align: center;
+  font-family: 'Notable', sans-serif;
+  font-style: italic;
+}
+
+.title {
+  line-height: 0;
+  padding: 10px 550px;
+  margin: 2px;
+  text-align: center;
+
+}
+
+.quote{
+  margin-left: 1.5625rem;
+}
+
+.name{
+  margin-left: 1.5625rem;
+}
+
+.wiki{
+  color: rgb(148,0,211);
+}
